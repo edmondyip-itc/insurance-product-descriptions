@@ -9,7 +9,7 @@
     "start": "nuxt start"
   },
   "dependencies": {
-    "nuxt": "latest"
+    "nuxt": "latest",
+    "ufo": "^1.6.4"
   }
-
 }

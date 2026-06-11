@@ -1,4 +1,5 @@
 import { ref, computed } from 'vue'
+import { withBase } from 'ufo'
 
 export const useProducts = () => {
   const products = ref([])
@@ -7,7 +8,7 @@ export const useProducts = () => {
 
   async function loadProducts() {
     try {
-      const response = await fetch('/insurance-product-descriptions/insurance-products.json')
+      const response = await fetch(withBase('/insurance-products.json', useRuntimeConfig().public.baseURL))
       if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`)
       products.value = await response.json()
       products.value.sort((a, b) => a.label.localeCompare(b.label))
