@@ -7,6 +7,11 @@ export default defineNuxtConfig({
     }
   },
   nitro: {
-    preset: 'static'
+    preset: 'static',
+    prerender: {
+      crawlLinks: true,
+      routes: ['/sitemap.xml', '/robots.txt']
+    },
+    outDir: 'docs'
   }
 })
