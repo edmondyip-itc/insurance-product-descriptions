@@ -1,6 +1,5 @@
 /.nuxt
 /.output
-/dist
 /node_modules
 
 # Optional environment files

@@ -1,0 +1,806 @@
+[
+  {
+    "key": "ALLOY",
+    "label": "SMART Alloys",
+    "description": "Smart Alloy Insurance will suit the Demands and Needs of an individual who has purchased an eligible vehicle (age and mileage) and who wishes to insure themselves against the unforeseen cost of repairing accidental alloy wheel damage. Subject to Terms, conditions and maximum specified claim limits. Details of these can be found in your policy information. If you do not have this please ask your supplying dealer for a copy.",
+    "declarations": [
+      "declarations_not_outside_normal_use"
+    ],
+    "eligibility_considerations": []
+  },
+  {
+    "key": "AWHLINS",
+    "label": "Alloy Wheel Insurance",
+    "description": "Scratches and scrapes to your alloys affect the look and value of your car, our Alloy Wheel insurance is a convenient way to keep your car looking at its showroom best",
+    "declarations": [
+      "declarations_not_outside_normal_use"
+    ],
+    "eligibility_considerations": [
+      "make",
+      "age",
+      "mileage",
+      "modifications",
+      "wheel size and construction (e.g. Single piece rather than split rim, painted rather than chrome)"
+    ]
+  },
+  {
+    "key": "CHFL",
+    "label": "Finance and Leasing Protection",
+    "description": "This insurance will satisfy the Demands and Needs of an individual who wishes to insure against a shortfall between an insurance settlement figure in the event of a total loss motor insurance claim and the settlement figure due to a lease company after such an event. Subject to policy exclusions, terms, conditions and maximum specified claim limits; details of which may be found in your policy booklet. If you do not have one of these please ask for a copy to aid you in making your own informed buying decision.",
+    "declarations": [
+      "declarations_not_outside_normal_use",
+      "declarations_maintain_comprehensive_motor_insurance",
+      "declarations_registered_keeper"
+    ],
+    "eligibility_considerations": [
+      "make",
+      "age",
+      "mileage",
+      "import status etc"
+    ]
+  },
+  {
+    "key": "CLHG",
+    "label": "Contract Lease Hire GAP",
+    "description": "",
+    "declarations": [
+      "declarations_not_outside_normal_use",
+      "declarations_maintain_comprehensive_motor_insurance",
+      "declarations_registered_keeper"
+    ],
+    "eligibility_considerations": [
+      "make",
+      "age",
+      "mileage",
+      "import status etc",
+      "taking into account the requirement for the vehicle to be on an appropriate lease"
+    ]
+  },
+  {
+    "key": "CNTRCTHRND",
+    "label": "Contract Hire and Finance GAP",
+    "description": "",
+    "declarations": [
+      "declarations_not_outside_normal_use",
+      "declarations_maintain_comprehensive_motor_insurance",
+      "declarations_registered_keeper"
+    ],
+    "eligibility_considerations": [
+      "vehicle make",
+      "age",
+      "mileage",
+      "import status etc",
+      "taking into account depreciation and level of deposit.Note the vehicle must not be insured under a motor trade policy."
+    ]
+  },
+  {
+    "key": "COMB",
+    "label": "Combined GAP",
+    "description": "Should you be unfortunate enough to write off your car, Combined gap will PAY YOU the difference between your insurance settlement figure and either your vehicle price or any car finance settlement figure, whichever is higher!",
+    "declarations": [
+      "declarations_not_outside_normal_use",
+      "declarations_maintain_comprehensive_motor_insurance",
+      "declarations_licence_age_resident",
+      "declarations_registered_keeper"
+    ],
+    "eligibility_considerations": [
+      "Vehicle make",
+      "model",
+      "age",
+      "mileage"
+    ]
+  },
+  {
+    "key": "COSALLOY",
+    "label": "SMART, Cosmetic and Alloy",
+    "description": "This insurance will satisfy the Demands and Needs of an individual wishing to insure themselves against unforeseen costs resulting from vehicle damage not covered or under the motor insurance excess figure such as: minor dents, light scratches, chips or scuffed bumpers and the unforeseen cost of repairing accidental alloy wheel damage. Subject to policy exclusions, terms, conditions and maximum specified claim limits; details of which may be found in your policy booklet. If you do not have one of these please ask for a copy to aid you in making your own informed buying decision.",
+    "declarations": [
+      "declarations_not_outside_normal_use"
+    ],
+    "eligibility_considerations": [
+      "Vehicle make",
+      "model",
+      "age",
+      "mileage",
+      "import status",
+      "weight",
+      "paint finish"
+    ]
+  },
+  {
+    "key": "COSMETIC",
+    "label": "SMART, Cosmetic",
+    "description": "SMART Insurance is designed to cover the cost of repairing the body panels of your vehicle as a result of minor body damage (subject to size and location limitation). Subject to terms and conditions, confirmed in the Insurance Product Information Document. The aim of SMART Insurance is to offer a quick and effective repair usually at your home or place of work.",
+    "declarations": [
+      "declarations_not_outside_normal_use"
+    ],
+    "eligibility_considerations": [
+      "vehicle make",
+      "age",
+      "mileage",
+      "import status",
+      "modifications and the paint finish e.g. not matt finish"
+    ]
+  },
+  {
+    "key": "COSTYAL",
+    "label": "SMART, Tyre and Alloy",
+    "description": "This insurance will satisfy the Demands and Needs of an individual wishing to insure themselves against unforeseen costs resulting from vehicle damage not covered or under the motor insurance excess figure such as: minor dents, light scratches, chips or scuffed bumpers, the unforeseen cost of repairing accidental alloy wheel damage and repairing or replacing punctured tyres. Subject to policy exclusions, terms, conditions and maximum specified claim limits; details of which may be found in your policy booklet.",
+    "declarations": [
+      "declarations_not_outside_normal_use"
+    ],
+    "eligibility_considerations": [
+      "vehicle make",
+      "age",
+      "mileage",
+      "import status",
+      "modifications",
+      "paint finish e.g. not matt finish",
+      "price limits",
+      "size",
+      "banding",
+      "minimum tread depth",
+      "condition",
+      "wheel size and construction (e.g. Single piece rather than split rim, painted rather than chrome)"
+    ]
+  },
+  {
+    "key": "CVAN",
+    "label": "Caravan Insurance",
+    "description": "This insurance will satisfy the Demands and Needs of an individual wishing to insure themselves against unforeseen costs resulting from an incident involving their caravan. Subject to policy exclusions, terms, conditions and maximum specified claim limits; details of which may be found in your policy booklet. If you do not have one of these please ask for a copy to aid you in making your own informed buying decision.",
+    "declarations": [
+      "declarations_not_outside_normal_use"
+    ],
+    "eligibility_considerations": [
+      "vehicle make",
+      "age",
+      "mileage",
+      "import status",
+      "modifications",
+      "paint finish e.g. not pearlescent"
+    ]
+  },
+  {
+    "key": "DRIVEAWAY",
+    "label": "7 Day Free Insurance",
+    "description": "",
+    "declarations": [],
+    "eligibility_considerations": []
+  },
+  {
+    "key": "ERI",
+    "label": "Excess Reimbursement Insurance",
+    "description": "",
+    "declarations": [
+      "declarations_not_outside_normal_use",
+      "declarations_maintain_comprehensive_motor_insurance",
+      "declarations_registered_keeper"
+    ],
+    "eligibility_considerations": []
+  },
+  {
+    "key": "FLHTUG",
+    "label": "Finance Lease or Hire Top up Gap",
+    "description": "",
+    "declarations": [
+      "declarations_not_outside_normal_use",
+      "declarations_maintain_comprehensive_motor_insurance",
+      "declarations_registered_keeper"
+    ],
+    "eligibility_considerations": [
+      "vehicle make",
+      "age",
+      "mileage",
+      "import status etc",
+      "taking into account depreciation and level of deposit"
+    ]
+  },
+  {
+    "key": "FOCVER",
+    "label": "Complimentary Excess Cover",
+    "description": "",
+    "declarations": [
+      "declarations_maintain_comprehensive_motor_insurance"
+    ],
+    "eligibility_considerations": []
+  },
+  {
+    "key": "FRDCMMRCLG",
+    "label": "Ford Commercial GAP",
+    "description": "This insurance will satisfy the Demands and Needs of an individual who wishes to be compensated for  the monetary difference between an insurance settlement figure in the event of a total loss motor insurance claim and the greater of either the original invoice price of the vehicle (less excluded extras) or the finance settlement figure (less excluded extras). Subject to policy exclusions, terms, conditions and maximum specified claim limits; details of which may be found in your policy booklet. If you do not have one of these please ask for a copy to aid you in making your own informed buying decision.",
+    "declarations": [
+      "declarations_registered_keeper_insurance"
+    ],
+    "eligibility_considerations": []
+  },
+  {
+    "key": "FRDCSMTCNS",
+    "label": "Ford Cosmetic Insurance",
+    "description": "This insurance will satisfy the Demands and Needs of an individual wishing to insure themselves against unforeseen costs resulting from vehicle damage not covered or under the motor insurance excess figure such as: minor dents, light scratches, chips or scuffed bumpers. Subject to policy exclusions, terms, conditions and maximum specified claim limits.",
+    "declarations": [],
+    "eligibility_considerations": []
+  },
+  {
+    "key": "FRDGP",
+    "label": "Ford Asset Protection",
+    "description": "Should you be unfortunate enough to write off your car, Combined gap will PAY YOU the difference between your insurance settlement figure and either your vehicle price or any car finance settlement figure, whichever is higher!",
+    "declarations": [
+      "declarations_not_outside_normal_use",
+      "declarations_licence_age_resident",
+      "declarations_registered_keeper_insurance"
+    ],
+    "eligibility_considerations": [
+      "Vehicle make",
+      "model",
+      "age",
+      "mileage"
+    ]
+  },
+  {
+    "key": "FRDLLYWHLN",
+    "label": "Ford Alloy Wheel Insurance",
+    "description": "Scratches and scrapes to your alloys affect the look and value of your car, our Alloy Wheel insurance is a convenient way to keep your car looking at its showroom best",
+    "declarations": [],
+    "eligibility_considerations": []
+  },
+  {
+    "key": "FRDTYRNSRN",
+    "label": "Ford Tyre Insurance",
+    "description": "Repairing or replacing punctured tyres is rarely something you save up for, our Tyre insurance will get your tyres replaced without leaving you out of pocket.",
+    "declarations": [],
+    "eligibility_considerations": []
+  },
+  {
+    "key": "GAP",
+    "label": "Finance GAP",
+    "description": "This insurance will satisfy the Demands and Needs of an individual who has taken finance on a vehicle, with a low deposit to loan ratio, who has not carried over a balance from a previous vehicle finance agreement and who wishes to insure against a shortfall between an insurance settlement figure in the event of a total loss motor insurance claim and the outstanding balance on their finance agreement. Subject to policy exclusions, terms, conditions and maximum specified claim limits; details of which may be found in your policy booklet. If you do not have one of these please ask for a copy to aid you in making your own informed buying decision.",
+    "declarations": [
+      "declarations_not_outside_normal_use",
+      "declarations_maintain_comprehensive_motor_insurance",
+      "declarations_registered_keeper"
+    ],
+    "eligibility_considerations": [
+      "vehicle make",
+      "age",
+      "mileage",
+      "import status etc",
+      "taking into account depreciation and level of deposit"
+    ]
+  },
+  {
+    "key": "KEY",
+    "label": "Key Insurance",
+    "description": "This insurance will satisfy the Demands and Needs of an individual who owns a motor vehicle and wishes to insure against the costs in the event that keys to the vehicle are lost or damaged. Subject to policy exclusions, terms, conditions, and specified claim limits.",
+    "declarations": [
+      "declarations_not_outside_normal_use"
+    ],
+    "eligibility_considerations": [
+      "make",
+      "age",
+      "mileage",
+      "import status",
+      "locks"
+    ]
+  },
+  {
+    "key": "LEASE",
+    "label": "Contract Hire GAP",
+    "description": "This insurance will satisfy the Demands and Needs of an individual who wishes to insure against a shortfall between an insurance settlement figure in the event of a total loss motor insurance claim and the settlement figure due to a lease company after such an event. Subject to policy exclusions, terms, conditions and maximum specified claim limits; details of which may be found in your Insurance Product Information Document (IPID) and or policy schedule/booklet.",
+    "declarations": [
+      "declarations_not_outside_normal_use",
+      "declarations_maintain_comprehensive_motor_insurance",
+      "declarations_registered_keeper"
+    ],
+    "eligibility_considerations": [
+      "Vehicle make",
+      "model",
+      "age",
+      "mileage"
+    ]
+  },
+  {
+    "key": "LPGMBI",
+    "label": "LPG Mechanical Breakdown Insurance",
+    "description": "This policy will suit the Demands and Needs of someone who has had an LPG conversion on their vehicle and who wishes to insure themselves against unforeseen costs following the breakdown of a vehicle due to works undertaken during the conversion. Subject to terms, conditions and maximum specified claim limits.",
+    "declarations": [
+      "declarations_not_outside_normal_use",
+      "declarations_vehicle_service"
+    ],
+    "eligibility_considerations": [
+      "Vehicle make",
+      "age",
+      "mileage",
+      "import status and modifications"
+    ]
+  },
+  {
+    "key": "LSNDCNTRCT",
+    "label": "Lease and Contract Hire GAP (Hire and Reward)",
+    "description": "",
+    "declarations": [
+      "declarations_not_outside_normal_use",
+      "declarations_maintain_comprehensive_motor_insurance",
+      "declarations_registered_keeper"
+    ],
+    "eligibility_considerations": [
+      "vehicle make",
+      "age",
+      "mileage",
+      "import status etc",
+      "taking into account depreciation and level of deposit"
+    ]
+  },
+  {
+    "key": "MBI",
+    "label": "Regulated MBI Warranty",
+    "description": "If you're concerned about repair bills should your car develop a mechanical problem, our Warranty is there when you need it most",
+    "declarations": [
+      "declarations_vehicle_service",
+      "declarations_maintain_comprehensive_motor_insurance"
+    ],
+    "eligibility_considerations": [
+      "Vehicle make",
+      "age",
+      "mileage",
+      "import status and modifications"
+    ]
+  },
+  {
+    "key": "MBIKECOMB",
+    "label": "Motorcycle Combined GAP",
+    "description": "This insurance will satisfy the Demands and Needs of an individual who wishes to be compensated for  the monetary difference between an insurance settlement figure in the event of a total loss motor insurance claim and the greater of either the original invoice price of the vehicle (less excluded extras) or the finance settlement figure (less excluded extras). Subject to policy exclusions, terms, conditions and maximum specified claim limits; details of which may be found in your policy booklet. If you do not have one of these please ask for a copy to aid you in making your own informed buying decision.",
+    "declarations": [
+      "declarations_not_outside_normal_use",
+      "declarations_maintain_comprehensive_motor_insurance",
+      "declarations_registered_keeper"
+    ],
+    "eligibility_considerations": [
+      "make",
+      "model",
+      "mileage",
+      "import status",
+      "modifications",
+      "retail price",
+      "term of the finance agreement and taking into account depreciation and level of deposit"
+    ]
+  },
+  {
+    "key": "MBIKETYRE",
+    "label": "Motorcycle Tyre Insurance",
+    "description": "This insurance will suit the Demands and Needs of an individual who wishes to insure themselves against expenses resulting from unforeseen damage to the tyres on their vehicle that is not insured elsewhere. Subject to policy exclusions, terms, conditions and maximum specified claim limits; details of which may be found in your policy booklet. If you do not have one of these please ask for a copy to aid you in making your own informed buying decision.",
+    "declarations": [
+      "declarations_not_outside_normal_use"
+    ],
+    "eligibility_considerations": [
+      "motorcycle make",
+      "age",
+      "mileage",
+      "import status",
+      "modifications",
+      "do the current tyres on the motorcycle fall within the allowable price limits, size banding, minimum tread depth, and condition"
+    ]
+  },
+  {
+    "key": "MISFUEL",
+    "label": "Misfuelling Insurance",
+    "description": "This insurance will suit the Demands and Needs of an individual who wishes to insure themselves against unforeseen expenses resulting from the misfuelling of their vehicle. Subject to policy exclusions, terms, conditions and maximum specified claim limits; details of which may be found in your policy booklet. If you do not have one of these please ask for a copy to aid you in making your own informed buying decision.",
+    "declarations": [
+      "declarations_not_outside_normal_use"
+    ],
+    "eligibility_considerations": [
+      "make",
+      "age",
+      "mileage",
+      "import status",
+      "locks etc"
+    ]
+  },
+  {
+    "key": "MOT",
+    "label": "MOT Insurance",
+    "description": "This insurance will suit the Demands and Needs of an individual who wishes to insure themselves against unforeseen expenses resulting from an MOT failure on their vehicle for elements not insured elsewhere. Subject to policy exclusions, terms, conditions and maximum specified claim limits; details of which may be found in your policy booklet. If you do not have one of these please ask for a copy to aid you in making your own informed buying decision.",
+    "declarations": [
+      "declarations_not_outside_normal_use",
+      "declarations_vehicle_service"
+    ],
+    "eligibility_considerations": [
+      "make",
+      "age",
+      "mileage",
+      "import status",
+      "MOT status"
+    ]
+  },
+  {
+    "key": "RRI",
+    "label": "Rescue and Recovery Assistance",
+    "description": "If a breakdown happens it can be costly to have your car recovered, even just a short distance, our Rescue and Recovery policy will get you back on your way or recover you to an agreed location, you'll never be left stranded",
+    "declarations": [
+      "declarations_not_outside_normal_use"
+    ],
+    "eligibility_considerations": [
+      "make",
+      "age",
+      "mileage",
+      "import status",
+      "modifications"
+    ]
+  },
+  {
+    "key": "RTI",
+    "label": "Return to Invoice GAP",
+    "description": "This insurance will satisfy the Demands and Needs of an individual who wishes to insure against a shortfall between an insurance settlement figure in the event of a total loss motor insurance claim and the original invoice price of the vehicle (less excluded extras). Subject to policy exclusions, terms, conditions and maximum specified claim limits; details of which may be found in your policy booklet. If you do not have one of these please ask for a copy to aid you in making your own informed buying decision.",
+    "declarations": [
+      "declarations_not_outside_normal_use",
+      "declarations_maintain_comprehensive_motor_insurance",
+      "declarations_registered_keeper"
+    ],
+    "eligibility_considerations": [
+      "make",
+      "model",
+      "mileage",
+      "modifications",
+      "retail price etc"
+    ]
+  },
+  {
+    "key": "RTIFSHORTF",
+    "label": "Return to Invoice GAP & Financial Shortfall (Including Taxis) Insurance",
+    "description": "This insurance will satisfy the Demands and Needs of an individual who in the event of a total loss motor insurance claim wishes to be provided with a replacement vehicle (less excluded extras). Subject to policy exclusions, terms, conditions and maximum specified claim limits; details of which may be found in your policy booklet. If you do not have one of these please ask for a copy to aid you in making your own informed buying decision.",
+    "declarations": [
+      "declarations_not_outside_normal_use",
+      "declarations_maintain_comprehensive_motor_insurance",
+      "declarations_registered_keeper"
+    ],
+    "eligibility_considerations": [
+      "make",
+      "model",
+      "mileage",
+      "modifications",
+      "retail price etc"
+    ]
+  },
+  {
+    "key": "SMART",
+    "label": "SMART Cover",
+    "description": "SMART Insurance is designed to cover the cost of repairing the body panels of your vehicle as a result of minor body damage (subject to size and location limitation). Subject to terms and conditions, confirmed in the Insurance Product Information Document. The aim of SMART Insurance is to offer a quick and effective repair usually at your home or place of work.",
+    "declarations": [
+      "declarations_not_outside_normal_use"
+    ],
+    "eligibility_considerations": [
+      "vehicle make",
+      "age",
+      "mileage",
+      "import status",
+      "modifications",
+      "paint finish e.g. not matt finish"
+    ]
+  },
+  {
+    "key": "SMARTREPAI",
+    "label": "SMART Repair & Alloy",
+    "description": "This insurance will satisfy the Demands and Needs of an individual wishing to insure themselves against unforeseen costs resulting from vehicle damage not covered or under the motor insurance excess figure such as: minor dents, light scratches, chips or scuffed bumpers and the unforeseen cost of repairing accidental alloy wheel damage. Subject to policy exclusions, terms, conditions and maximum specified claim limits; details of which may be found in your policy booklet. If you do not have one of these please ask for a copy to aid you in making your own informed buying decision.",
+    "declarations": [
+      "declarations_not_outside_normal_use"
+    ],
+    "eligibility_considerations": []
+  },
+  {
+    "key": "TAXICOMB",
+    "label": "Taxi Combined GAP",
+    "description": "This insurance will satisfy the Demands and Needs of an individual who wishes to be compensated for  the monetary difference between an insurance settlement figure in the event of a total loss motor insurance claim and the greater of either the original invoice price of the vehicle (less excluded extras) or the finance settlement figure (less excluded extras). Subject to policy exclusions, terms, conditions and maximum specified claim limits; details of which may be found in your policy booklet. If you do not have one of these please ask for a copy to aid you in making your own informed buying decision.",
+    "declarations": [
+      "declarations_not_outside_normal_use",
+      "declarations_maintain_comprehensive_motor_insurance",
+      "declarations_registered_keeper"
+    ],
+    "eligibility_considerations": [
+      "Vehicle make",
+      "model",
+      "age",
+      "mileage"
+    ]
+  },
+  {
+    "key": "TAXIFIGAP",
+    "label": "Taxi Finance Gap",
+    "description": "This insurance will satisfy the Demands and Needs of an individual who has taken finance on a vehicle, with a low deposit to loan ratio, who has not carried over a balance from a previous vehicle finance agreement and who wishes to insure against a shortfall between an insurance settlement figure in the event of a total loss motor insurance claim and the outstanding balance on their finance agreement. Subject to policy exclusions, terms, conditions and maximum specified claim limits; details of which may be found in your policy booklet. If you do not have one of these please ask for a copy to aid you in making your own informed buying decision.",
+    "declarations": [
+      "declarations_not_outside_normal_use",
+      "declarations_maintain_comprehensive_motor_insurance",
+      "declarations_registered_keeper"
+    ],
+    "eligibility_considerations": [
+      "vehicle make",
+      "age",
+      "mileage",
+      "import status etc",
+      "taking into account depreciation and level of deposit"
+    ]
+  },
+  {
+    "key": "TAXIGAP",
+    "label": "Taxi and Driving School Finance GAP",
+    "description": "This insurance will satisfy the Demands and Needs of an individual who has taken finance on a vehicle, with a low deposit to loan ratio, who has not carried over a balance from a previous vehicle finance agreement and who wishes to insure against a shortfall between an insurance settlement figure in the event of a total loss motor insurance claim and the outstanding balance on their finance agreement. Subject to policy exclusions, terms, conditions and maximum specified claim limits; details of which may be found in your policy booklet. If you do not have one of these please ask for a copy to aid you in making your own informed buying decision.",
+    "declarations": [
+      "declarations_not_outside_normal_use",
+      "declarations_maintain_comprehensive_motor_insurance",
+      "declarations_registered_keeper"
+    ],
+    "eligibility_considerations": [
+      "make",
+      "age",
+      "mileage",
+      "import status etc"
+    ]
+  },
+  {
+    "key": "TAXILEASE",
+    "label": "Taxi and Driving School Lease GAP",
+    "description": "This insurance will satisfy the Demands and Needs of an individual who wishes to insure against a shortfall between an insurance settlement figure in the event of a total loss motor insurance claim and the settlement figure due to a lease company after such an event. Subject to policy exclusions, terms, conditions and maximum specified claim limits; details of which may be found in your policy booklet. If you do not have one of these please ask for a copy to aid you in making your own informed buying decision.",
+    "declarations": [
+      "declarations_not_outside_normal_use",
+      "declarations_maintain_comprehensive_motor_insurance",
+      "declarations_registered_keeper"
+    ],
+    "eligibility_considerations": [
+      "make",
+      "age",
+      "mileage",
+      "import status etc"
+    ]
+  },
+  {
+    "key": "TAXIONLYRT",
+    "label": "Taxi Return to Invoice GAP",
+    "description": "",
+    "declarations": [
+      "declarations_not_outside_normal_use",
+      "declarations_registered_keeper"
+    ],
+    "eligibility_considerations": []
+  },
+  {
+    "key": "TAXIRTI",
+    "label": "Taxi and Driving School Return to Invoice GAP",
+    "description": "This insurance will satisfy the Demands and Needs of an individual who wishes to insure against a shortfall between an insurance settlement figure in the event of a total loss motor insurance claim and the original invoice price of the vehicle (less excluded extras). Subject to policy exclusions, terms, conditions and maximum specified claim limits; details of which may be found in your policy booklet. If you do not have one of these please ask for a copy to aid you in making your own informed buying decision.",
+    "declarations": [
+      "declarations_not_outside_normal_use",
+      "declarations_maintain_comprehensive_motor_insurance",
+      "declarations_registered_keeper"
+    ],
+    "eligibility_considerations": []
+  },
+  {
+    "key": "TAXIVRI",
+    "label": "Taxi and Driving School Vehicle Replacement Insurance",
+    "description": "This insurance will satisfy the Demands and Needs of an individual who in the event of a total loss motor insurance claim wishes to be provided with a replacement vehicle (less excluded extras). Subject to policy exclusions, terms, conditions and maximum specified claim limits; details of which may be found in your policy booklet. If you do not have one of these please ask for a copy to aid you in making your own informed buying decision.",
+    "declarations": [
+      "declarations_not_outside_normal_use",
+      "declarations_maintain_comprehensive_motor_insurance",
+      "declarations_registered_keeper"
+    ],
+    "eligibility_considerations": []
+  },
+  {
+    "key": "TOPMBI",
+    "label": "Top up MBI",
+    "description": "Our top up Warranty is designed to extend the Warranty period already on the vehicle when you purchase it, meaning you can cover the cost of repair bills should your car develop a mechanical problem now and into the future",
+    "declarations": [
+      "declarations_not_outside_normal_use",
+      "declarations_vehicle_service"
+    ],
+    "eligibility_considerations": [
+      "Vehicle make",
+      "age",
+      "mileage",
+      "import status and modifications"
+    ]
+  },
+  {
+    "key": "TRUSTHRSPE",
+    "label": "H & R Special Warranty",
+    "description": "This insurance will satisfy the Demands and Needs of an individual who owns a motor vehicle and wishes to insure against the unforeseen mechanical repair costs. Subject to policy exclusions, terms, conditions, and maximum specified claim limits",
+    "declarations": [
+      "declarations_not_outside_normal_use",
+      "declarations_vehicle_service"
+    ],
+    "eligibility_considerations": [
+      "Vehicle make",
+      "age",
+      "mileage",
+      "import status",
+      "modifications"
+    ]
+  },
+  {
+    "key": "TRUSTHRSTA",
+    "label": "H & R Standard Warranty",
+    "description": "This insurance will satisfy the Demands and Needs of an individual who owns a motor vehicle and wishes to insure against the unforeseen mechanical repair costs. Subject to policy exclusions, terms, conditions, and maximum specified claim limits",
+    "declarations": [
+      "declarations_not_outside_normal_use",
+      "declarations_vehicle_service"
+    ],
+    "eligibility_considerations": [
+      "Vehicle make",
+      "age",
+      "mileage",
+      "import status",
+      "modifications"
+    ]
+  },
+  {
+    "key": "TRUSTSLSPE",
+    "label": "Special Warranty",
+    "description": "This insurance will satisfy the Demands and Needs of an individual who owns a motor vehicle and wishes to insure against the unforeseen mechanical repair costs. Subject to policy exclusions, terms, conditions, and maximum specified claim limits",
+    "declarations": [
+      "declarations_not_outside_normal_use",
+      "declarations_vehicle_service"
+    ],
+    "eligibility_considerations": [
+      "Vehicle make",
+      "age",
+      "mileage",
+      "import status",
+      "modifications"
+    ]
+  },
+  {
+    "key": "TRUSTSLSTA",
+    "label": "Standard Warranty",
+    "description": "This insurance will satisfy the Demands and Needs of an individual who owns a motor vehicle and wishes to insure against the unforeseen mechanical repair costs. Subject to policy exclusions, terms, conditions, and maximum specified claim limits",
+    "declarations": [
+      "declarations_not_outside_normal_use",
+      "declarations_vehicle_service"
+    ],
+    "eligibility_considerations": [
+      "Vehicle make",
+      "age",
+      "mileage",
+      "import status",
+      "modifications"
+    ]
+  },
+  {
+    "key": "TTLLSSSSST",
+    "label": "Total Loss Assistance",
+    "description": "",
+    "declarations": [
+      "declarations_not_outside_normal_use",
+      "declarations_maintain_comprehensive_motor_insurance"
+    ],
+    "eligibility_considerations": [
+      "Vehicle make",
+      "age",
+      "mileage",
+      "import status",
+      "modifications"
+    ]
+  },
+  {
+    "key": "TYAL",
+    "label": "Tyre and Alloy",
+    "description": "Damage to your wheels, whether to your tyre or alloys can be costly and dangerous. Our tyre and alloy policy will replace your tyres and keep your alloys in showroom condition, two policies in one!",
+    "declarations": [
+      "declarations_not_outside_normal_use"
+    ],
+    "eligibility_considerations": [
+      "Make",
+      "age",
+      "mileage",
+      "import status",
+      "Are the alloy wheels of a size (under maximum permitted) and of a construction (e.g. Single piece rather than split rim, painted rather than chrome) that makes them eligible to be covered under the Alloy wheel section of the policy",
+      "do the current tyres on the vehicle fall within the allowable price limits, size banding, minimum tread depth, and condition required?"
+    ]
+  },
+  {
+    "key": "TYRE",
+    "label": "Tyre Insurance",
+    "description": "Repairing or replacing punctured tyres is rarely something you save up for, our Tyre insurance will get your tyres replaced without leaving you out of pocket.",
+    "declarations": [
+      "declarations_not_outside_normal_use"
+    ],
+    "eligibility_considerations": [
+      "Vehicle make",
+      "age",
+      "mileage",
+      "import status",
+      "modifications",
+      "if the current tyres on the vehicle fall within the allowable price limits",
+      "size",
+      "banding",
+      "minimum tread depth",
+      "condition"
+    ]
+  },
+  {
+    "key": "TYREKEY",
+    "label": "Tyre & Key Insurance",
+    "description": "This Insurance will suit the Demands and Needs of an individual who wishes to insure themselves against expenses resulting from unforeseen damage to tyres on their vehicle that is not insured elsewhere and against unforeseen expenses resulting from a loss of keys.  Subject to policy exclusions, terms, conditions and maximum specified claim limits; details of which may be found in your policy booklet. If you do not have one of these please ask for a copy to aid you in making your own informed buying decision.",
+    "declarations": [
+      "declarations_not_outside_normal_use"
+    ],
+    "eligibility_considerations": [
+      "Vehicle make",
+      "age",
+      "mileage",
+      "import status",
+      "modifications and do the current tyres on the vehicle fall within the allowable price limits, size banding, minimum tread depth, and condition"
+    ]
+  },
+  {
+    "key": "VEREX",
+    "label": "Complimentary 7 day Insurance",
+    "description": "Complimentary insurance cover, gets you on the road quickly and easily so you can enjoy that new car feeling (please check policy documentation for duration and any exclusions).",
+    "declarations": [
+      "declarations_uk_resident",
+      "declarations_uk_licence",
+      "declarations_honesty"
+    ],
+    "eligibility_considerations": [
+      "Vehicle Make",
+      "Model",
+      "Age",
+      "Mileage",
+      "Use",
+      "Customer Age",
+      "Time Driving",
+      "License Held"
+    ]
+  },
+  {
+    "key": "VRI",
+    "label": "Vehicle Replacement Insurance",
+    "description": "This insurance will satisfy the Demands and Needs of an individual who in the event of a total loss motor insurance claim wishes to be provided with a replacement vehicle (less excluded extras). Subject to policy exclusions, terms, conditions and maximum specified claim limits; details of which may be found in your Insurance Product Information Document (IPID) and or policy schedule/booklet.",
+    "declarations": [
+      "declarations_not_outside_normal_use",
+      "declarations_maintain_comprehensive_motor_insurance",
+      "declarations_registered_keeper"
+    ],
+    "eligibility_considerations": [
+      "make",
+      "model",
+      "mileage",
+      "modifications",
+      "retail price"
+    ]
+  },
+  {
+    "key": "VRIFGAP",
+    "label": "VRI & Finance GAP",
+    "description": "This insurance will satisfy the Demands and Needs of an individual who wishes to be provided with a replacement vehicle (less excluded extras) or the finance settlement figure (less excluded extras) whichever is greater, in the event of a total loss motor insurance claim. Subject to policy exclusions, terms, conditions and maximum specified claim limits; details of which may be found in your Insurance Product Information Document (IPID) and or policy schedule/booklet.",
+    "declarations": [
+      "declarations_not_outside_normal_use",
+      "declarations_maintain_comprehensive_motor_insurance",
+      "declarations_registered_keeper"
+    ],
+    "eligibility_considerations": [
+      "age",
+      "mileage",
+      "make",
+      "model",
+      "modifications",
+      "retail price",
+      "term of finance agreement etc"
+    ]
+  },
+  {
+    "key": "FREEGAP",
+    "label": "Premia JCT complimentary GAP",
+    "description": "Should you be unfortunate enough to write off your car, Combined gap will PAY YOU the difference between your insurance settlement figure and either your vehicle price or any car finance settlement figure, whichever is higher!",
+    "declarations": [
+      "declarations_not_outside_normal_use",
+      "declarations_maintain_comprehensive_motor_insurance",
+      "declarations_licence_age_resident",
+      "declarations_registered_keeper",
+      "declarations_prem_freegap",
+      "declarations_prem_freegap_5k_10y"
+    ],
+    "eligibility_considerations": [
+      "Vehicle make",
+      "model",
+      "age",
+      "mileage"
+    ]
+  }
+]
