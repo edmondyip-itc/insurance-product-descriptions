@@ -6,9 +6,8 @@ export const useProducts = () => {
   const pageTitle = ref('Products')
 
   async function loadProducts() {
-    const res = await fetch('/insurance-products.json')
-    if (!res.ok) throw new Error('Unable to load insurance-products.json')
-    products.value = await res.json()
+    const res = await $fetch('/insurance-products.json')
+    products.value = res
     products.value.sort((a, b) => a.label.localeCompare(b.label))
     if (!selectedKey.value) selectedKey.value = products.value[0]?.key || null
     updateTitle()

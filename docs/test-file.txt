@@ -1,1 +1,0 @@
-TEST FILE - If you see this, GitHub Pages is correctly serving from /docs folder
