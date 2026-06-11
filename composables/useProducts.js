@@ -6,11 +6,16 @@ export const useProducts = () => {
   const pageTitle = ref('Products')
 
   async function loadProducts() {
-    const res = await $fetch('/insurance-products.json')
-    products.value = res
-    products.value.sort((a, b) => a.label.localeCompare(b.label))
-    if (!selectedKey.value) selectedKey.value = products.value[0]?.key || null
-    updateTitle()
+    try {
+      const response = await fetch('/insurance-product-descriptions/insurance-products.json')
+      if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`)
+      products.value = await response.json()
+      products.value.sort((a, b) => a.label.localeCompare(b.label))
+      if (!selectedKey.value) selectedKey.value = products.value[0]?.key || null
+      updateTitle()
+    } catch (err) {
+      console.error('Failed to load products:', err)
+    }
   }
 
   function updateTitle() {
