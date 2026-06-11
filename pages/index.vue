@@ -17,6 +17,7 @@
 </template>
 
 <script setup>
+// Version: 2025-06-11-v3 (cache bust)
 import { ref, computed, watch, onMounted } from 'vue'
 import ProductMenu from '~/components/ProductMenu.vue'
 import ProductDetail from '~/components/ProductDetail.vue'
